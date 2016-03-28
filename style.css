@@ -1,0 +1,224 @@
+/** opmaak afgemeen*/
+
+body {
+	font-family: calibri, arial;
+	font-weight: 300;
+	color: #4d4d4d;
+	margin: 0 ;
+	padding: 0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: #FFFFFC;
+	
+}
+
+
+/** opmaak titels en tekst*/
+h1 {
+font-family: simonetta;
+font-size: 38px;
+color:#7A3340;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+h2 {
+font-family: simonetta;
+font-size: 24px;
+color:#403257;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+h3 {
+font-family: simonetta;
+font-size: 20px;
+color:#403257;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+p {
+font: 16px;
+text-align: justify;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+p2 {
+font-family: simonetta;
+font-size: 12px;
+margin: 0;
+padding: 0;
+color: #284561;
+line-height: 115%;
+}
+
+p3 {
+font-size: 16px;
+cursor: pointer;
+color:#7A3340;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+p3:hover{
+cursor: pointer;
+color:#859C62;
+margin: 0;
+padding: 0;
+}
+
+
+
+#wrap {
+position: relative;
+width: 100%;
+}
+
+
+#kolom {
+position: absolute;
+top: 0;
+bottom: 0;
+height: auto;
+width: 160px;
+text-align: right;
+left: -185px;
+margin: -15px 10px 0 10px;
+background: #FFFFFC;
+}
+
+#contact {
+position: absolute;
+bottom: 0;
+padding: 10px;
+}
+
+#contact-klein-scherm {
+display: none;
+}
+
+
+
+#kleurenbalk {
+position: relative:
+float: right;
+width: 700px;
+padding: 15px;
+height: auto;
+margin: 50px 50px 50px 0;
+background: url("images/color2-04.png");
+background-size: 100% 100%;
+border: 10px solid transparant;
+border-bottom-right-radius: 50px;
+border-left: 160px solid #7A3340;
+}
+
+#content {
+position: relative:
+width: 90%;
+padding: 10px;
+height: auto;
+background: #FFFFFC;
+border-bottom-right-radius: 40px;
+}
+
+#foto img {
+height: 20%;
+min-height: 80px;
+width: 20%;
+min-width: 80px;
+margin: 0 0 5% 5%;
+position: relative;
+float: right;
+border-bottom-right-radius: 0 !important;
+}
+
+#kleur2 {
+position: absolute;
+float:left;
+top: 50px;
+right: 0;
+height: 15px;
+width: 75%;
+background: #F5F0D8;
+z-index: -20;
+}
+
+/** opmaak klein scherm*/
+
+@media all and (max-width: 900px), (max-height: 400px) {
+#kolom {
+display: none;
+}
+
+#contact {
+display: none;
+}
+
+#contact-klein-scherm {
+display: block;
+}
+
+#kleurenbalk {
+margin: 0;
+width: auto;
+max-width: 1000px;
+border-left: none;
+}
+ 
+#tekst {
+padding-left: 0;
+}
+}
+
+
+
+
+/** lettertype aanroepen **/
+
+
+
+@font-face {
+font-family: 'Simonetta Black';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta Black'), url('simonetta/Simonetta-Black.woff') format('woff');
+src: local('Simonetta Black') url('simonetta/Simonetta-Black.ttf') format('truetype');
+}
+
+
+@font-face {
+font-family: 'Simonetta';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta'), url('simonetta/Simonetta-Regular.woff') format('woff');
+src: local('Simonetta') url('simonetta/Simonetta-Regular.ttf') format('truetype');
+src: local('Simonetta') url('simonetta/Simonetta-Regular.eot');
+}
+
+
+@font-face {
+font-family: 'Simonetta Black Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta Black Italic'), url('simonetta/Simonetta-BlackItalic.woff') 
+format('woff');
+src: local('Simonetta Black Italic') url('simonetta/Simonetta-BlackItalic.ttf') format('truetype');
+}
+
+
+@font-face {
+font-family: 'Simonetta Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta Italic'), url('simonetta/Simonetta-Italic.woff') format('woff');
+src: local('Simonetta Italic') url('simonetta/Simonetta-Italic.ttf') format('truetype');
+}
