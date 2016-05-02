@@ -59,24 +59,8 @@ color: #284561;
 line-height: 115%;
 }
 
-p2:link {
-font-family: simonetta;
-font-size: 12px;
-margin: 0;
-padding: 0;
-color: #284561;
-line-height: 115%;
-text-decoration: none
-}
-
-p2:hover {
-cursor: pointer;
-text-decoration: none
-color: #7A3340
-}
-
 p3 {
-font-size: 16px;
+font-size: 14px;
 cursor: pointer;
 color:#7A3340;
 margin: 0;
