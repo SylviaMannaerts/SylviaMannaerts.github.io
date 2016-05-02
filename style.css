@@ -65,16 +65,14 @@ font-size: 12px;
 margin: 0;
 padding: 0;
 color: #284561;
-line-height: 115%	
+line-height: 115%;
+text-decoration: none
 }
 
 p2:hover {
-font-family: simonetta;
-font-size: 12px;
-margin: 0;
-padding: 0;
-color: #7A3340;
-line-height: 115%	
+cursor: pointer;
+text-decoration: none
+color: #7A3340
 }
 
 p3 {
