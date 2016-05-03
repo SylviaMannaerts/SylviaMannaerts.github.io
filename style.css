@@ -59,6 +59,9 @@ color: #284561;
 line-height: 115%;
 }
 
+p2.small { line-height: 100%;
+}
+
 p3 {
 font-family: simonetta;
 font-size: 12px;
@@ -78,7 +81,7 @@ padding: 0;
 }
 
 p3.small{ line-height: 100%;
-
+}
 a { text-decoration: none; }
 
 #wrap {
