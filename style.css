@@ -59,7 +59,7 @@ color: #284561;
 line-height: 115%;
 }
 
-p2.small { line-height: 100%;
+p2.small { line-height: 90%;
 }
 
 p3 {
@@ -80,7 +80,7 @@ margin: 0;
 padding: 0;
 }
 
-p3.small{ line-height: 100%;
+p3.small{ line-height: 90%;
 }
 a { text-decoration: none; }
 
