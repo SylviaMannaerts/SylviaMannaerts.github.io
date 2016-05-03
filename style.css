@@ -80,9 +80,19 @@ padding: 0;
 line-height: 115%;
 }
 
+a href:link {
+cursor: pointer;
+color:#284561;
+text-decoration:none;
+margin: 0;
+padding: 0;
+
+}
+
 a href:hover{
 cursor: pointer;
 color:#859C62;
+text-decoration:none;
 margin: 0;
 padding: 0;
 }
