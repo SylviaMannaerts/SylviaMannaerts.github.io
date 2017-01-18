@@ -86,6 +86,7 @@ text-decoration:none;
 margin: 0;
 padding: 0;
 }
+a:visited {color:#7A3340;}
 
 
 #wrap {
