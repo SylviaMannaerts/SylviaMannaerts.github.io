@@ -1,0 +1,139 @@
+<!DOCTYPE html>
+<html>
+<head>
+		
+		<link REL=StyleSheet HREF="style.css" TYPE="text/css"/>
+		
+		
+		<!--icoontje in tabblad--!>
+		<link rel="shortcut icon" type="image/png"
+			href="images/ico-05.png"/>
+			
+			
+		<!--titel in het tabblad--!>
+		<title>
+			Sylvia Mannaerts
+		</title>
+</head>
+<body>
+
+
+	 
+	
+
+
+<!--strepen achtergrond--!>
+<div id="kleurenbalk"> 	
+
+<div id="wrap">
+
+<div id="kolom">
+
+<!--contactgegevens linkerzijkant, moet zelfde zijn als contactgegevens op klein scherm, zie onderaan--!>
+<div id="contact">	
+		
+		<a href="http://www.muzie-makers.nl/" target="_blank"><p3>De muzie-makerij</p3></a> </br> 
+		</br>
+
+		<a href="https://openaccess.leidenuniv.nl/handle/1887/35935" target="_blank"><p3>Music in contrast to </br> military occupation:</p3></a></br> 
+		<p2>On the significance of community music in occupied territory.</p2></br> </br> 
+		
+		
+		<a href="http://www.sylviamannaerts.nl/"><p3>Home</p3></a></br> 
+		<a href="https://www.linkedin.com/in/sylvia-mannaerts-39898526?trk=hp-identity-name" target="_blank"><p3>LinkedIn</p3></a></br>
+		<a href="https://www.researchgate.net/profile/Sylvia_Mannaerts" target="_blank"><p3>ResearchGate</p3></a></br>
+		
+		
+		<!-- br teken is enter (witregel), a is klikbare link--!>
+		
+		</p3> 	
+		<p2>
+		
+		+31 (0)6 37 425 487</br>
+		<!-- span gedoe is om spam tegen te gaan --!>
+		snmannaerts<span style="display:none">-anti-bot-bit</span>@gmail.com
+		
+		</br>
+		
+		</p2>
+</div>	<!--einde id contact--!>
+	
+</div> <!--einde id kolom--!>
+
+	
+<div id="content">
+	
+		
+		<div id="tekst">
+		
+		<!--profielfoto--!>
+		<div id="foto"><img src="images/portret(c)LastOfProductions.jpg"/></div> <!--einde id foto--!>
+		
+		<!-- titel, opmaak h1, h2 en h3, platte tekst opmaak p --!>
+
+			<h1>Sylvia Mannaerts</h1>
+			
+			<h2>Antropoloog.</h2>
+			
+			</br></br>
+			
+			
+			<h3></h3>
+			
+				
+			</br></br></br>
+			
+			<p><b>Ik ben beschikbaar als: </b></br>
+      &rarr; Freelance adviseur en facilitator voor in de culturele sector. Ik ondersteun organisaties bij o.a. fondsenwerving, strategische ontwikkellingen en het organiseren van activiteiten. 
+			</br> 
+       &rarr; Betrokken collega. In teamverband neem ik bij voorkeur de positie van aanjager en ondersteuner in. 
+      Ik draag er graag aan bij iedereen zich op zijn/haar plek voelt, en vind het prettig om concreet vooruitgang te boeken.
+      Ik ben gewend om met klanten, relaties en andere externe contacten te werken en netwerken op te bouwen; 
+      daarnaast denk ik graag mee over strategie en management. 
+      Ook van praktische klussen ben ik niet vies: ik draag graag effectief bij om de doelstellingen van het bedrijf te verwezenlijken. 
+      </p>
+			
+			
+
+			
+			
+			
+<div id="contact-klein-scherm">
+	
+<!--contactgegevens onder, moet zelfde zijn als contactgegevens op groot scherm links--!>
+
+		<p2>
+		</br></br>
+		
+		<p2>
+		
+		+31 (0)6 37 425 487</br>
+		snmannaerts<span style="display:none">-anti-bot-bit</span>@gmail.com
+		</br></br>
+		
+		</p2>
+		
+</div> <!--einde id contact-klein-scherm--!>
+
+
+
+</div><!--einde id tekst--!>
+
+
+</div> <!--einde id content--!>
+	
+
+</div> <!--einde id wrap--!>
+
+
+</div> <!--einde id kleurenbalk--!>
+
+
+<!--lichtgele balk rechts--!>
+<div id="kleur2"></div>
+
+
+
+
+
+</body>
