@@ -14,6 +14,12 @@ body {
 }
 
 
+img {
+    	max-width: 100%;
+	height: auto;
+   	max-height: 100%;
+}
+
 /** opmaak titels en tekst*/
 h1 {
 font-family: simonetta;
