@@ -28,7 +28,7 @@ img {
 }
 .carousel-inner{
   height: 50vh;
-  width: 50vw;
+  width: 90%;
 }
 .carousel-caption{
   font-family: simonetta;
