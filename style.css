@@ -1,4 +1,4 @@
-/** opmaak afgemeen*/
+/** opmaak algemeen*/
 
 body {
 	font-family: calibri, arial;
@@ -19,6 +19,23 @@ img {
 	height: auto;
    	max-height: 100%;
 }
+
+
+
+/** opmaak carousel*/
+.carousel{
+  margin-top: 50px;
+}
+.carousel-inner{
+  height: 100px;
+}
+.carousel-caption{
+  font-family: simonetta;
+  font-size: 24px;
+  color:#403257;
+  top: 50%;
+}
+
 
 
 /** opmaak titels en tekst*/
