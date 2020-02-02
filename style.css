@@ -114,6 +114,9 @@ padding: 0;
 a:visited {color:#7A3340;}
 
 
+
+/** opmaak divs*/
+
 #wrap {
 position: relative;
 width: 100%;
@@ -159,13 +162,13 @@ border-left: 160px solid #7A3340;
 }
 
 #content {
-position: relative:
+position: relative;
 width: 90%;
 padding-top: 10px;
   padding-right: 50px;
   padding-bottom: 10px;
   padding-left: 50px;
-height: auto;
+height: 50%;
 background: #FFFFFC;
 border-bottom-right-radius: 40px;
 }
