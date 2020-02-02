@@ -20,6 +20,25 @@ img {
    	max-height: 100%;
 }
 
+
+/** Bootstrap carousel gekopieerd van https://codepen.io/DDN-Shep/pen/WxaPkP*/
+.carousel {
+  .carousel-item {
+    height: 20em;
+
+    > *:first-child {
+      background: {
+        // image: set inline on the element
+        position: 50%;
+        repeat: no-repeat;
+        size: cover;
+      }
+      height: inherit;
+    }
+  }
+}
+
+
 /** opmaak titels en tekst*/
 h1 {
 font-family: simonetta;
