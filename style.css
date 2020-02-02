@@ -27,7 +27,7 @@ img {
   margin-top: 50px;
 }
 .carousel-inner{
-  height: 100px;
+  height: 50vh;
 }
 .carousel-caption{
   font-family: simonetta;
