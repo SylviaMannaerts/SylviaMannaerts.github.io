@@ -141,7 +141,7 @@ display: none;
 
 
 #kleurenbalk {
-position: relative:
+position: relative;
 float: right;
 width: 700px;
 padding: 15px;
@@ -159,7 +159,7 @@ position: relative;
 width: 90%;
 padding: 5px;
 background: #FFFFFC;
-border-bottom-right-radius: 40px;
+border-bottom-right-radius: 20px;
 }
 
 #foto img {
