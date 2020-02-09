@@ -15,23 +15,6 @@ body {
 
 
 
-/** opmaak carousel https://codepen.io/Washable/pen/Oxqjbq*/
-.carousel{
-  margin-top: 50px;
-}
-.carousel-inner{
-  height: auto;
-  width: auto;
-}
-.carousel-caption{
-  font-family: simonetta;
-  font-size: 24px;
-  color:#403257;
-  top: 50%;
-}
-
-
-
 /** opmaak titels en tekst*/
 h11 {
 font-family: simonetta;
