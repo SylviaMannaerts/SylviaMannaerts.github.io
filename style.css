@@ -139,7 +139,7 @@ border-left: 160px solid #7A3340;
 
 #content {
 position: relative;
-width: 90%;
+width: auto;
 padding: 5px;
 background: #FFFFFC;
 border-bottom-right-radius: 40px;
