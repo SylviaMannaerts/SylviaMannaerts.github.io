@@ -1,4 +1,4 @@
-/** opmaak algemeen*/
+/** opmaak afgemeen*/
 
 body {
 	font-family: calibri, arial;
@@ -12,7 +12,6 @@ body {
 	background-color: #FFFFFC;
 	
 }
-
 
 
 /** opmaak titels en tekst*/
@@ -61,8 +60,7 @@ line-height: 115%;
 }
 
 p33 {
-font-family: simonetta;
-font-size: 13px;
+font-size: 16px;
 cursor: pointer;
 color:#7A3340;
 margin: 0;
@@ -73,25 +71,11 @@ line-height: 115%;
 p33:hover{
 cursor: pointer;
 color:#859C62;
-text-decoration:none;
 margin: 0;
 padding: 0;
 }
 
-a { text-decoration: none; }
-a:link {color:#7A3340;}
-a:hover {
-cursor: pointer;
-color:#859C62;
-text-decoration:none;
-margin: 0;
-padding: 0;
-}
-a:visited {color:#7A3340;}
 
-
-
-/** opmaak secties*/
 
 #wrap {
 position: relative;
@@ -124,7 +108,7 @@ display: none;
 
 
 #kleurenbalk {
-position: relative;
+position: relative:
 float: right;
 width: 700px;
 padding: 15px;
@@ -138,9 +122,10 @@ border-left: 160px solid #7A3340;
 }
 
 #content {
-position: relative;
+position: relative:
 width: 90%;
-padding: 5px;
+padding: 10px;
+height: auto;
 background: #FFFFFC;
 border-bottom-right-radius: 40px;
 }
