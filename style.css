@@ -123,6 +123,20 @@ border-bottom-right-radius: 50px;
 border-left: 160px solid #7A3340;
 }
 
+#kleurenbalk2 {
+position: relative:
+float: right;
+width: 700px;
+padding: 15px;
+height: auto;
+margin: 50px 50px 50px 0;
+background: url("images/color2-05.png");
+background-size: 100% 100%;
+border: 10px solid transparant;
+border-bottom-right-radius: 50px;
+border-left: 160px solid #7A3340;
+}
+
 #content {
 position: relative:
 width: 90%;
