@@ -208,16 +208,16 @@ padding-left: 0;
 }
 }
 
-/** Carousel indicators zichtbaar maken op wit **/
+/** Carousel controls zichtbaar maken op wit **/
 /* Add an extra .carousel parent class to increase specifity
    avoiding the use of !important flag. */
-.carousel .carousel-indicators li {
+.carousel .carousel-controls li {
   background-color: #fff;
   background-color: rgba(70,70,70,.25);
   border:1px solid #83968f;
 }
 
-.carousel .carousel-indicators .active {
+.carousel .carousel-controls .active {
   background-color: #444;
 }
 
