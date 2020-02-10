@@ -185,6 +185,7 @@ display: none;
 
 #contact-klein-scherm {
 display: block;
+text-align: center;
 }
 
 #kleurenbalk {
@@ -193,7 +194,15 @@ width: auto;
 max-width: 1000px;
 border-left: none;
 }
- 
+
+#kleurenbalk2 {
+margin: 0;
+width: auto;
+max-width: 1000px;
+border-left: none;
+}	
+	
+	
 #tekst {
 padding-left: 0;
 }
