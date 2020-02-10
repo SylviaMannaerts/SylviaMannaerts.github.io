@@ -59,6 +59,10 @@ color: #284561;
 line-height: 115%;
 }
 
+p22.br {
+	padding-bottom: 5px;
+} 
+
 p33 {
 font-size: 16px;
 cursor: pointer;
@@ -74,6 +78,10 @@ color:#859C62;
 margin: 0;
 padding: 0;
 }
+
+p33.br {
+	padding-bottom: 5px;
+} 
 
 a{
 	text-decoration:none;
