@@ -144,7 +144,10 @@ border-left: 160px solid #7A3340;
 #content {
 position: relative:
 width: 90%;
-padding: 10px;
+padding-top: 10px;
+padding-bottom: 10px;
+padding-left: 30px;
+Padding-right: 30px;
 height: auto;
 background: #FFFFFC;
 border-bottom-right-radius: 40px;
