@@ -79,6 +79,10 @@ a{
 	text-decoration:none;
 }
 
+a:hover{
+  	text-decoration: none;
+}
+
 #wrap {
 position: relative;
 width: 100%;
