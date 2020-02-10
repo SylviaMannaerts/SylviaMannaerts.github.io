@@ -202,8 +202,14 @@ padding-left: 0;
 }
 }
 
+/** Carousel indicators zichtbaar maken op wit **/
+   .carousel-indicators li {
+        border-color: #777;
+    }
 
-
+    .carousel-indicators .active {
+        background-color: #777;
+    }
 
 /** lettertype aanroepen **/
 
