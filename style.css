@@ -60,7 +60,8 @@ line-height: 115%;
 }
 
 p22.br {
-	padding-bottom: 5px;
+	padding-bottom: 10px;
+	line-height: 110%;
 } 
 
 p33 {
@@ -80,7 +81,8 @@ padding: 0;
 }
 
 p33.br {
-	padding-bottom: 5px;
+	padding-bottom: 10px;
+	line-height: 110%;
 } 
 
 a{
