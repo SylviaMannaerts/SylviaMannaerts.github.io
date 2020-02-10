@@ -223,7 +223,7 @@ padding-left: 0;
    avoiding the use of !important flag. */
 
 .carousel-control-prev-icon {
- background-image: url('/images/ArrowR.png') !important;
+ background-image: url('/images/ArrowL.png') !important;
 }
 
 .carousel-control-next-icon {
