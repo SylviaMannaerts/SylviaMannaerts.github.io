@@ -1,4 +1,4 @@
-/** opmaak afgemeen*/
+/** opmaak algemeen*/
 
 body {
 	font-family: calibri, arial;
@@ -200,12 +200,20 @@ padding-left: 0;
 }
 
 /** Carousel indicators zichtbaar maken op wit **/
-   .carousel-indicators li {
-        border-color: #777;
-    }
+/* Add an extra .carousel parent class to increase specifity
+   avoiding the use of !important flag. */
+.carousel .carousel-indicators li {
+  background-color: #fff;
+  background-color: rgba(70,70,70,.25);
+  border:1px solid #444;
+}
 
-    .carousel-indicators .active {
-        background-color: #777;
+.carousel .carousel-indicators .active {
+  background-color: #444;
+}
+
+
+	   
     }
 
 /** lettertype aanroepen **/
