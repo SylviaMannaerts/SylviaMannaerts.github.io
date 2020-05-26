@@ -43,7 +43,7 @@ line-height: 115%;
 }
 
 p11 {
-font: 12px;
+font: 10px;
 text-align: justify;
 margin: 0;
 padding: 0;
@@ -65,7 +65,8 @@ p22.br {
 } 
 
 p33 {
-font-size: 16px;
+font-family: simonetta;
+font-size: 12px;
 cursor: pointer;
 color:#7A3340;
 margin: 0;
