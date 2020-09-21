@@ -28,7 +28,7 @@ body {
 /** opmaak titels en tekst*/
 h11 {
 font-family: simonetta;
-font-size: 2vw;
+font-size: 1.75vw;
 color:#7A3340;
 margin: 0;
 padding: 0;
@@ -102,7 +102,7 @@ p44 {
 	font-size: 1.25vw;
 	cursor: pointer;
 	color:#fff;
-	background-color: #284561
+	background-color: #284561;
 	margin: 0;
 	padding: 0;
 	line-height: 115%;
