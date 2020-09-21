@@ -37,7 +37,7 @@ line-height: 115%;
 
 h22 {
 font-family: simonetta;
-font-size: 12vw;
+font-size: 4vw;
 color:#403257;
 margin: 0;
 padding: 0;
@@ -46,7 +46,7 @@ line-height: 115%;
 
 h33 {
 font-family: simonetta;
-font-size: 16px;
+font-size: 3px;
 color:#403257;
 margin: 0;
 padding: 0;
@@ -99,7 +99,7 @@ p33.br {
 
 p44 {
 	font-family: simonetta;
-	font-size: 12vw;
+	font-size: 2vw;
 	cursor: pointer;
 	color:#fff;
 	background-color: #284561
