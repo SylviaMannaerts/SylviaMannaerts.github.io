@@ -97,6 +97,29 @@ p33.br {
 	line-height: 110%;
 } 
 
+p44 {
+	font-family: simonetta;
+	font-size: 12vw;
+	cursor: pointer;
+	color:#fff;
+	background-color: #284561
+	margin: 0;
+	padding: 0;
+	line-height: 115%;
+	}
+
+p44:hover{
+	cursor: pointer;
+	color:#6a6260;
+	margin: 0;
+	padding: 0;
+	}
+
+p44.br {
+	padding-bottom: 10px;
+	line-height: 110%;
+} 
+
 a{
 	text-decoration:none;
 }
