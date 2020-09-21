@@ -28,7 +28,7 @@ body {
 /** opmaak titels en tekst*/
 h11 {
 font-family: simonetta;
-font-size: 16vw;
+font-size: 4vw;
 color:#7A3340;
 margin: 0;
 padding: 0;
@@ -37,7 +37,7 @@ line-height: 115%;
 
 h22 {
 font-family: simonetta;
-font-size: 4vw;
+font-size: 3vw;
 color:#403257;
 margin: 0;
 padding: 0;
@@ -46,7 +46,7 @@ line-height: 115%;
 
 h33 {
 font-family: simonetta;
-font-size: 3px;
+font-size: 3vw;
 color:#403257;
 margin: 0;
 padding: 0;
