@@ -99,7 +99,7 @@ p33.br {
 
 p44 {
 	font-family: simonetta;
-	font-size: 2vw;
+	font-size: 12px;
 	cursor: pointer;
 	color:#fff;
 	background-color: #284561
@@ -110,7 +110,7 @@ p44 {
 
 p44:hover{
 	cursor: pointer;
-	color:#6a6260;
+	background-color:#6a6260;
 	margin: 0;
 	padding: 0;
 	}
