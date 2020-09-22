@@ -61,6 +61,21 @@ padding: 0;
 line-height: 115%;
 }
 
+p20 {
+font-family: simonetta;
+font-size: 12px;
+margin: 0;
+padding: 0;
+color: #284561;
+line-height: 115%;
+}
+
+p20.br {
+	padding-bottom: 10px;
+	line-height: 110%;
+} 
+
+
 p22 {
 font-family: simonetta;
 font-size: 12px;
@@ -70,10 +85,6 @@ color: #284561;
 line-height: 115%;
 }
 
-p22.br {
-	padding-bottom: 10px;
-	line-height: 110%;
-} 
 
 p33 {
 font-family: simonetta;
