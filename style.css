@@ -25,6 +25,13 @@ body {
         background: url("images/linkedin2.png") no-repeat;
 }
 
+.my-custom-scrollbar {
+  position: relative;
+  width: 800px;
+  height: 400px;
+  overflow: auto;
+}
+
 /** opmaak titels en tekst*/
 h11 {
 font-family: simonetta;
