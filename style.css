@@ -225,6 +225,16 @@ background: #f1ebd6;
 z-index: -20;
 }
 
+#name {
+	width:45%;
+	height: 100%
+}
+
+#items {
+	width:55%;
+	height: 100%
+}
+
 /** opmaak klein scherm*/
 
 @media all and (max-width: 900px), (max-height: 400px) {
