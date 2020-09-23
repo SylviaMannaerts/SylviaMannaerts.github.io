@@ -270,6 +270,26 @@ border-left: none;
 #tekst {
 padding-left: 0;
 }
+	
+p44 {
+	font-family: simonetta;
+	font-size: 8px;
+	cursor: pointer;
+	color:#fff;
+	background-color: #284561;
+	margin: 0;
+	padding: 0;
+	line-height: 115%;
+	}
+
+p44:hover{
+	cursor: pointer;
+	background-color:#6a6260;
+	margin: 0;
+	padding: 0;
+	}
+	
+	
 }
 
 /** Carousel controls zichtbaar maken op wit **/
