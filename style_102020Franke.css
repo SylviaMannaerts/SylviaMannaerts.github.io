@@ -1,0 +1,408 @@
+/** opmaak algemeen*/
+
+body {
+	font-family: calibri, arial;
+	font-weight: 300;
+	color: #4d4d4d;
+	margin: 0 ;
+	padding: 0;
+	position: absolute;
+	height: 100%;
+	width: 100%;
+	background-color: #FFFFFC;
+	line-height: 0;
+	border: 0;
+	
+}
+
+
+/** knopjens */
+
+.LIn {
+        width: 30px;
+        height: 30px;
+        background: url("/images/linkedin.png") no-repeat;
+        display: inline-block;
+    }
+.LIn:hover {
+        background: url("images/linkedin2.png") no-repeat;
+}
+
+
+/** opmaak titels en tekst*/
+h11 {
+font-family: simonetta;
+font-size: 20px;
+color:#7A3340;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+h22 {
+font-family: simonetta;
+font-size: 18px;
+color:#403257;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+h33 {
+font-family: simonetta;
+font-size: 16px;
+color:#403257;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+p11 {
+font: 8px;
+text-align: justify;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+p20 {
+font-family: simonetta;
+font-size: 12px;
+margin: 0;
+padding: 0;
+color: #284561;
+line-height: 115%;
+}
+
+p20.br {
+	padding-bottom: 10px;
+	line-height: 110%;
+} 
+
+
+p22 {
+font-family: simonetta;
+font-size: 12px;
+margin: 0;
+padding: 0;
+color: #284561;
+line-height: 1;
+background-color:#f1ebd6;
+float: right;
+clear: both;
+}
+
+
+p33 {
+font-family: simonetta;
+font-size: 12px;
+cursor: pointer;
+color:#7A3340;
+margin: 0;
+padding: 0;
+line-height: 115%;
+}
+
+p33:hover{
+cursor: pointer;
+color:#859C62;
+margin: 0;
+padding: 0;
+}
+
+p33.br {
+	padding-bottom: 10px;
+	line-height: 110%;
+} 
+
+p44 {
+	font-family: simonetta;
+	font-size: 12px;
+	cursor: pointer;
+	color:#fff;
+	background-color: #284561;
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+float: right
+	}
+
+p44:hover{
+	cursor: pointer;
+	background-color:#6a6260;
+	margin: 0;
+	padding: 0;
+	}
+
+
+
+a{
+	text-decoration:none;
+}
+
+a:hover{
+  	text-decoration: none;
+}
+
+#wrap {
+position: relative;
+width: 100%;
+}
+
+
+#kolom {
+position: absolute;
+top: 0;
+bottom: 0;
+height: auto;
+width: 160px;
+text-align: right;
+left: -185px;
+margin: -15px 10px 0 10px;
+background: #FFFFFC;
+}
+
+#contact {
+position: absolute;
+bottom: 0;
+padding: 10px;
+}
+
+#contact-klein-scherm {
+display: none;
+}
+
+
+
+#kleurenbalk {
+position: relative:
+float: right;
+width: 700px;
+padding: 15px;
+height: auto;
+margin: 50px 50px 50px 0;
+background: url("images/color2-04.png");
+background-size: 100% 100%;
+border: 10px solid transparant;
+border-bottom-right-radius: 50px;
+border-left: 160px solid #7A3340;
+}
+
+#kleurenbalk2 {
+position: relative:
+float: right;
+width: 700px;
+padding: 15px;
+height: auto;
+margin: 50px 50px 50px 0;
+background: url("images/color2-05.png");
+background-size: 100% 100%;
+border: 10px solid transparant;
+border-bottom-right-radius: 50px;
+border-left: 160px solid #7A3340;
+}
+
+#content {
+position: relative:
+width: 90%;
+padding: 10px;
+height: auto;
+background: #FFFFFC;
+border-bottom-right-radius: 40px;
+}
+
+#foto img {
+height: 20%;
+min-height: 80px;
+width: 20%;
+min-width: 80px;
+margin: 0 0 5% 5%;
+position: relative;
+float: right;
+border-bottom-right-radius: 0 !important;
+}
+
+#kleur2 {
+position: absolute;
+float:left;
+top: 50px;
+right: 0;
+height: 15px;
+width: 75%;
+background: #f1ebd6;
+z-index: -20;
+}
+
+#name {
+	width:45%;
+	height: 100%
+}
+
+#items {
+	width:55%;
+	height: 100%
+}
+
+/** opmaak klein scherm*/
+
+@media all and (max-width: 700px), (max-height: 400px) {
+#kolom {
+display: none;
+}
+
+#contact {
+display: none;
+}
+
+#contact-klein-scherm {
+display: block;
+text-align: center;
+}
+
+#kleurenbalk {
+margin: 0;
+width: auto;
+max-width: 1000px;
+border-left: none;
+}
+
+#kleurenbalk2 {
+margin: 0;
+width: auto;
+max-width: 1000px;
+border-left: none;
+}	
+	
+	
+#tekst {
+padding-left: 0;
+}
+	
+	p22 {
+font-family: simonetta;
+font-size: 8px;
+margin: 0;
+padding: 0;
+color: #284561;
+line-height: 1;
+}
+	
+p44 {
+	font-family: simonetta;
+	font-size: 8px;
+	cursor: pointer;
+	color:#fff;
+	background-color: #284561;
+	margin: 0;
+	padding: 0;
+	line-height: 100%;
+	}
+
+p44:hover{
+	cursor: pointer;
+	background-color:#6a6260;
+	margin: 0;
+	padding: 0;
+	}
+	
+	
+}
+
+/** Carousel controls zichtbaar maken op wit **/
+/* Add an extra .carousel parent class to increase specifity
+   avoiding the use of !important flag. */
+
+.carousel-control-prev-icon {
+ background-image: url('/images/ArrowL.png') !important;
+}
+
+.carousel-control-next-icon {
+  background-image: url('/images/ArrowR.png') !important;}
+
+
+/** lettertype aanroepen **/
+
+
+
+@font-face {
+font-family: 'Simonetta Black';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta Black'), url('simonetta/Simonetta-Black.woff') format('woff');
+src: local('Simonetta Black') url('simonetta/Simonetta-Black.ttf') format('truetype');
+}
+
+
+@font-face {
+font-family: 'Simonetta';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta'), url('simonetta/Simonetta-Regular.woff') format('woff');
+src: local('Simonetta') url('simonetta/Simonetta-Regular.ttf') format('truetype');
+src: local('Simonetta') url('simonetta/Simonetta-Regular.eot');
+}
+
+
+@font-face {
+font-family: 'Simonetta Black Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta Black Italic'), url('simonetta/Simonetta-BlackItalic.woff') 
+format('woff');
+src: local('Simonetta Black Italic') url('simonetta/Simonetta-BlackItalic.ttf') format('truetype');
+}
+
+
+@font-face {
+font-family: 'Simonetta Italic';
+font-style: normal;
+font-weight: normal;
+src: local('Simonetta Italic'), url('simonetta/Simonetta-Italic.woff') format('woff');
+src: local('Simonetta Italic') url('simonetta/Simonetta-Italic.ttf') format('truetype');
+}
+
+/*
+ *  Scrollbar STYLE 4
+ */
+
+.scrollbar
+{
+	margin-left: 30px;
+	float: left;
+	height: 300px;
+	width: 65px;
+	background: #F5F5F5;
+	overflow-y: scroll;
+	margin-bottom: 25px;
+}
+
+.force-overflow
+{
+	min-height: 450px;
+}
+
+#wrapper
+{
+	text-align: center;
+	width: 500px;
+	margin: auto;
+}
+
+#style-4::-webkit-scrollbar-track
+{
+	-webkit-box-shadow: inset 0 0 6px rgba(0,0,0,0.3);
+	background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar
+{
+	width: 10px;
+	background-color: #F5F5F5;
+}
+
+#style-4::-webkit-scrollbar-thumb
+{
+	background-color: #000000;
+	border: 2px solid #555555;
+}
+
