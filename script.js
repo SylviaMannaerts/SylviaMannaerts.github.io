@@ -1,4 +1,5 @@
-const swiper = new Swiper('.swiper-container', {
+<script type="text/javascript">
+  const swiper = new Swiper('.swiper-container', {
   direction: 'vertical',
   mousewheel: {},
   effect: 'cube',
@@ -7,3 +8,4 @@ const swiper = new Swiper('.swiper-container', {
     onlyInViewport: false
   }
 });
+</script>
