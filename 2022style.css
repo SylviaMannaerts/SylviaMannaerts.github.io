@@ -31,7 +31,7 @@ body {
 
 /** opmaak titels en tekst*/
 h11 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 20px;
 color:#7A3340;
 margin: 0;
@@ -40,7 +40,7 @@ line-height: 115%;
 }
 
 h22 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 18px;
 color:#403257;
 margin: 0;
@@ -49,7 +49,7 @@ line-height: 115%;
 }
 
 h33 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 16px;
 color:#403257;
 margin: 0;
@@ -66,7 +66,7 @@ line-height: 115%;
 }
 
 p20 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 12px;
 margin: 0;
 padding: 0;
@@ -81,7 +81,7 @@ p20.br {
 
 
 p22 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 12px;
 margin: 0;
 padding: 0;
@@ -94,7 +94,7 @@ clear: both;
 
 
 p33 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 12px;
 cursor: pointer;
 color:#7A3340;
@@ -116,7 +116,7 @@ p33.br {
 } 
 
 p44 {
-	font-family: simonetta;
+	font-family: Street Compact;
 	font-size: 12px;
 	cursor: pointer;
 	color:#fff;
@@ -279,7 +279,7 @@ padding-left: 0;
 }
 	
 	p22 {
-font-family: simonetta;
+font-family: Street Compact;
 font-size: 8px;
 margin: 0;
 padding: 0;
@@ -288,7 +288,7 @@ line-height: 1;
 }
 	
 p44 {
-	font-family: simonetta;
+	font-family: Street Compact;
 	font-size: 8px;
 	cursor: pointer;
 	color:#fff;
@@ -325,13 +325,25 @@ p44:hover{
 
 
 @font-face {
-font-family: 'Simonetta Black';
+font-family: 'Street';
 font-style: normal;
 font-weight: normal;
-src: local('Simonetta Black'), url('simonetta/Simonetta-Black.woff') format('woff');
-src: local('Simonetta Black') url('simonetta/Simonetta-Black.ttf') format('truetype');
+src: local('Street Compact'), url('Street/STREET__.ttf') format('truetype');
 }
 
+@font-face {
+font-family: 'Street Compact';
+font-style: normal;
+font-weight: normal;
+src: local('Street Compact'), url('Street/STRCOMP_.ttf') format('truetype');
+}
+
+@font-face {
+font-family: 'Street UPR';
+font-style: normal;
+font-weight: normal;
+src: local('Street Compact'), url('Street/STRUPR__.ttf') format('truetype');
+}
 
 @font-face {
 font-family: 'Simonetta';
