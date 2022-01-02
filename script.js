@@ -1,5 +1,5 @@
 <script type="text/javascript">
-  const swiper = new Swiper('.swiper-container', {
+const swiper = new Swiper('.swiper-container', {
   direction: 'vertical',
   mousewheel: {},
   effect: 'cube',
