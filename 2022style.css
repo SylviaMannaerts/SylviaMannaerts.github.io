@@ -378,7 +378,18 @@ src: local('Simonetta Italic') url('simonetta/Simonetta-Italic.ttf') format('tru
 /** Image Accordeon **/
 @import url('https://fonts.googleapis.com/css?family=Roboto+Slab');
 
+html, body {
+  position: relative;
+  width: 100%;
+  height: 100%;
+}
 
+body {
+  font-family: 'Roboto Slab', serif;
+  color:#000;
+  margin: 0;
+  padding: 0;
+}
 
 .heading {
   background: white;
@@ -569,4 +580,3 @@ src: local('Simonetta Italic') url('simonetta/Simonetta-Italic.ttf') format('tru
     transform: rotate(0deg) translate3d(0, 0, 0)
   }
 }
-
