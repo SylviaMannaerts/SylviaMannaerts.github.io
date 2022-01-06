@@ -374,6 +374,15 @@ src: local('Simonetta Italic') url('simonetta/Simonetta-Italic.ttf') format('tru
 }
 
 /*
+/** video afspelen op de achtergrond **/
+#myVideo {
+  position: fixed;
+  right: 0;
+  bottom: 0;
+  min-width: 100%;
+  min-height: 100%;
+}
+
 
 /** Image Accordeon **/
 @import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
