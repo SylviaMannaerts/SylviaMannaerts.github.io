@@ -422,6 +422,7 @@ body {
   flex-direction: row;
   width: 100%;
   padding-top: 55,55%; 
+  height: inherit;
 }
 .container-general .gallery-wrap .item {
   flex: 1;
