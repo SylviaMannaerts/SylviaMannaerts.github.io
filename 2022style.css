@@ -415,14 +415,15 @@ body {
 .container-general {
   padding: 10 20;
   margin: 0 auto;
-  width: 800px;
+  width: 1000px;
+  height: 600px
 }
 .container-general .gallery-wrap {
   display: flex;
   flex-direction: row;
   width: 100%;
-  padding-top: 55,55%; 
-  height: inherit;
+  height: 
+ 
 }
 .container-general .gallery-wrap .item {
   flex: 1;
