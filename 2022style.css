@@ -420,8 +420,8 @@ body {
 .container-general .gallery-wrap {
   display: flex;
   flex-direction: row;
-  padding-top: 0.55%; 
   width: 100%;
+  padding-top: 55,55%; 
 }
 .container-general .gallery-wrap .item {
   flex: 1;
