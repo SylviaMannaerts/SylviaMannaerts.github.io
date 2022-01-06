@@ -420,6 +420,7 @@ body {
 .container-general .gallery-wrap {
   display: flex;
   flex-direction: row;
+  padding-top: 0.55%; 
   width: 100%;
   height: auto;
 }
