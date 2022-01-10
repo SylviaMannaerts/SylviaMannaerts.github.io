@@ -314,9 +314,9 @@ body {
 .swiper-container {
   position:relative;
   box-sizing:border-box;
-  width: calc(70vh-30px);
+  width: 70vh;
   max-width: 770px;
-  height: calc(70vh-30px);
+  height: 70vh);
   max-height: 770px;
   margin: 0;
 }
