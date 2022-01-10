@@ -175,11 +175,13 @@ display: none;
 
 
 #kleurenbalk {
-position: relative:
+position: relative;
 float: right;
-width: 700px;
+width: 70vh;
+max-width: 800px;
 padding: 5px;
 height: auto;
+max-height: 800px;
 margin: 50px 50px 50px 0;
 background: url("images/color1221_1.png");
 background-size: 100% 100%;
@@ -189,11 +191,13 @@ border-left: 160px solid #414543;
 }
 
 #kleurenbalk2 {
-position: relative:
+position: relative;
 float: right;
-width: 700px;
+width: 70vh;
+max-width: 800px;
 padding: 5px;
 height: auto;
+max-height: 800px;
 margin: 50px 50px 50px 0;
 background: url("images/color1221_1.png");
 background-size: 100% 100%;
@@ -388,10 +392,10 @@ body {
 .swiper-container {
   position:relative;
   box-sizing:border-box;
-  width: auto;
-  max-width: 670px;
-  height: 70vh;
-  max-height: 670px;
+  width: calc(70vh-30px);
+  max-width: 770px;
+  height: calc(70vh-30px);
+  max-height: 770px;
 }
 
 .swiper-slide {
