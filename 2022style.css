@@ -332,6 +332,7 @@ body {
   max-width: 770px;
   height: calc(70vh-30px);
   max-height: 770px;
+  margin: 0;
 }
 
 .swiper-slide {
