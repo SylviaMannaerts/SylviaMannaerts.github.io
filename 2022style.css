@@ -185,6 +185,7 @@ background: url("images/color1221_1.png");
 background-size: 100% 100%;
 border: 10px solid transparant;
 border-bottom-right-radius: 50px;
+border-left: 160px solid #588576;
 }
 
 #kleurenbalk2 {
@@ -198,6 +199,7 @@ background: url("images/color1221_1.png");
 background-size: 100% 100%;
 border: 10px solid transparant;
 border-bottom-right-radius: 50px;
+border-left: 160px solid #588576;
 }
 
 #content {
