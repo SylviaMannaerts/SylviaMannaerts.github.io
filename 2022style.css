@@ -172,7 +172,7 @@ display: none;
 
 #kleurenbalk2 {
 position: relative;
-width: 80vh;
+width: 85vh;
 max-width: 800px;
 padding: 5px;
 height: auto;
@@ -308,9 +308,9 @@ body {
 .swiper-container {
   position:relative;
   box-sizing:border-box;
-  width: 70vh;
+  width: 75vh;
   max-width: 770px;
-  height: 65vh);
+  height: 70vh);
   max-height: 770px;
   margin: 0 0 0 0;
 }
