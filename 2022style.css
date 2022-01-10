@@ -204,7 +204,8 @@ border-left: 160px solid #414543;
 
 #content {
 position: relative:
-width: 90%;
+width: 120vh;
+max-width: 100vw;
 padding: 15px;
 height: 70vh;
 max-height: 800px;
