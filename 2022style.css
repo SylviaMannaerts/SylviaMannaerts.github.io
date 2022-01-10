@@ -186,7 +186,7 @@ border-left: 160px transparant;
 
 #kleurenbalk2 {
 position: relative;
-width: 700px;
+width: 800px;
 padding: 5px;
 height: auto;
 margin: 50px 50px 50px 0;
@@ -206,16 +206,6 @@ background: #FFFFFC;
 border-bottom-right-radius: 40px;
 }
 
-#foto img {
-height: 20%;
-min-height: 80px;
-width: 20%;
-min-width: 80px;
-margin: 0 0 5% 5%;
-position: relative;
-float: right;
-border-bottom-right-radius: 0 !important;
-}
 
 #kleur2 {
 position: absolute;
@@ -228,15 +218,7 @@ background: #f1ebd6;
 z-index: -20;
 }
 
-#name {
-	width:45%;
-	height: 100%
-}
 
-#items {
-	width:55%;
-	height: 100%
-}
 
 /** opmaak klein scherm*/
 
@@ -303,21 +285,10 @@ p44:hover{
 	
 }
 
-/** Carousel controls zichtbaar maken op wit **/
-/* Add an extra .carousel parent class to increase specifity
-   avoiding the use of !important flag. */
 
-.carousel-control-prev-icon {
- background-image: url('/images/ArrowL.png') !important;
-}
-
-.carousel-control-next-icon {
-  background-image: url('/images/ArrowR.png') !important;}
 
 
 /** lettertype aanroepen **/
-
-
 
 @font-face {
 font-family: 'Street';
@@ -340,35 +311,8 @@ font-weight: normal;
 src: local('Street Compact'), url('Street/STRUPR__.ttf') format('truetype');
 }
 
-@font-face {
-font-family: 'Simonetta';
-font-style: normal;
-font-weight: normal;
-src: local('Simonetta'), url('simonetta/Simonetta-Regular.woff') format('woff');
-src: local('Simonetta') url('simonetta/Simonetta-Regular.ttf') format('truetype');
-src: local('Simonetta') url('simonetta/Simonetta-Regular.eot');
-}
 
 
-@font-face {
-font-family: 'Simonetta Black Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Simonetta Black Italic'), url('simonetta/Simonetta-BlackItalic.woff') 
-format('woff');
-src: local('Simonetta Black Italic') url('simonetta/Simonetta-BlackItalic.ttf') format('truetype');
-}
-
-
-@font-face {
-font-family: 'Simonetta Italic';
-font-style: normal;
-font-weight: normal;
-src: local('Simonetta Italic'), url('simonetta/Simonetta-Italic.woff') format('woff');
-src: local('Simonetta Italic') url('simonetta/Simonetta-Italic.ttf') format('truetype');
-}
-
-/*
 
 /** Image Accordeon **/
 @import url("https://fonts.googleapis.com/css?family=Roboto+Slab");
