@@ -182,9 +182,9 @@ height: auto;
 margin: 50px 50px 50px 0;
 background: url("images/color1221_1.png");
 background-size: 100% 100%;
-border: 10px solid transparant;
+border: 10px transparant;
 border-bottom-right-radius: 50px;
-border-left: 160px solid #588576;
+border-left: 160px transparant;
 }
 
 #kleurenbalk2 {
