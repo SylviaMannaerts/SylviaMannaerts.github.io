@@ -24,9 +24,6 @@ body {
         background: url("/images/linkedin.png") no-repeat;
         display: inline-block;
     }
-.LIn:hover {
-        background: url("images/linkedin2.png") no-repeat;
-}
 
 
 /** opmaak titels en tekst*/
