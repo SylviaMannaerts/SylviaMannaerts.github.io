@@ -388,7 +388,7 @@ body {
 .swiper-container {
   position:relative;
   box-sizing:border-box;
-  width: 120vh;
+  width: auto;
   max-width: 1360px;
   height: 70vh;
   max-height: 800px;
