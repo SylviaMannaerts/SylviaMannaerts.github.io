@@ -204,11 +204,9 @@ border-left: 160px solid #414543;
 
 #content {
 position: relative:
-width: 120vh;
-max-width: 100vw;
+width: 100%;
+height: 100%;
 padding: 15px;
-height: 70vh;
-max-height: 800px;
 background: #FFFFFC;
 border-bottom-right-radius: 40px;
 }
@@ -390,8 +388,10 @@ body {
 .swiper-container {
   position:relative;
   box-sizing:border-box;
-  width: calc(inherit-30px);
-  height: calc(inherit-30px);
+  width: 120vh;
+  max-width: 1360px;
+  height: 70vh;
+  max-height: 800px;
 }
 
 .swiper-slide {
