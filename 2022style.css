@@ -206,7 +206,8 @@ border-left: 160px solid #414543;
 position: relative:
 width: 90%;
 padding: 15px;
-height: auto;
+height: 70vh;
+max-height: 800px;
 background: #FFFFFC;
 border-bottom-right-radius: 40px;
 }
