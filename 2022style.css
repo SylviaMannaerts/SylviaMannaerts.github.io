@@ -223,13 +223,6 @@ display: block;
 text-align: center;
 }
 
-#kleurenbalk {
-margin: 0;
-width: auto;
-max-width: 1000px;
-border-left: none;
-}
-
 #kleurenbalk2 {
 margin: 0;
 width: auto;
@@ -318,7 +311,7 @@ body {
   max-width: 770px;
   height: 70vh);
   max-height: 770px;
-  margin: 0;
+  margin: 0 0 0 0;
 }
 
 .swiper-slide {
