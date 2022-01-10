@@ -172,7 +172,7 @@ display: none;
 
 #kleurenbalk2 {
 position: relative;
-width: calc(70vh+30px);
+width: 75vh;
 max-width: 800px;
 padding: 5px;
 height: auto;
