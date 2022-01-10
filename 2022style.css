@@ -186,7 +186,8 @@ border-left: 160px transparant;
 
 #kleurenbalk2 {
 position: relative;
-width: 800px;
+width: 70vh;
+max-width: 800px;
 padding: 5px;
 height: auto;
 margin: 50px 50px 50px 0;
