@@ -15,6 +15,72 @@ body {
 	
 }
 
+#wrap {
+position: relative;
+width: 100%;
+}
+
+
+#kolom {
+position: absolute;
+top: 0;
+bottom: 0;
+height: auto;
+width: 160px;
+text-align: right;
+left: -165px;
+margin: -5px 10px 0 0px;
+background: #FFFFFC;
+}
+
+#contact {
+position: absolute;
+bottom: 0;
+padding: 10px;
+}
+
+#contact-klein-scherm {
+display: none;
+}
+
+
+#kleurenbalk2 {
+position: relative;
+width: 85vh;
+max-width: 800px;
+padding: 5px;
+height: auto;
+margin: 50px 50px 50px 0;
+background: url("images/color1221_1.png");
+background-size: 100% 100%;
+border: 10px solid transparant;
+border-bottom-right-radius: 50px;
+border-left: 160px solid #414643;
+}
+
+#content {
+position: relative;
+width: auto;
+height: 100%;
+padding: 15px;
+background: #FFFFFC;
+border-bottom-right-radius: 40px;
+}
+
+
+#kleur2 {
+position: absolute;
+float:left;
+top: 50px;
+right: 0;
+height: 5px;
+width: 75%;
+background: #f1ebd6;
+z-index: -20;
+}
+
+
+
 
 /** knopjens */
 
@@ -121,7 +187,7 @@ p44 {
 	margin: 0;
 	padding: 0;
 	line-height: 100%;
-float: right
+	float: right;
 	}
 
 p44:hover{
@@ -141,69 +207,7 @@ a:hover{
   	text-decoration: none;
 }
 
-#wrap {
-position: relative;
-width: 100%;
-}
 
-
-#kolom {
-position: absolute;
-top: 0;
-bottom: 0;
-height: auto;
-width: 160px;
-text-align: right;
-left: -165px;
-margin: -5px 10px 0 0px;
-background: #FFFFFC;
-}
-
-#contact {
-position: absolute;
-bottom: 0;
-padding: 10px;
-}
-
-#contact-klein-scherm {
-display: none;
-}
-
-
-#kleurenbalk2 {
-position: relative;
-width: 85vh;
-max-width: 800px;
-padding: 5px;
-height: auto;
-margin: 50px 50px 50px 0;
-background: url("images/color1221_1.png");
-background-size: 100% 100%;
-border: 10px solid transparant;
-border-bottom-right-radius: 50px;
-border-left: 160px solid #414643;
-}
-
-#content {
-position: relative;
-width: auto;
-height: 100%;
-padding: 15px;
-background: #FFFFFC;
-border-bottom-right-radius: 40px;
-}
-
-
-#kleur2 {
-position: absolute;
-float:left;
-top: 50px;
-right: 0;
-height: 5px;
-width: 75%;
-background: #f1ebd6;
-z-index: -20;
-}
 
 
 
