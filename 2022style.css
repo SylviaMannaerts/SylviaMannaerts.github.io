@@ -186,7 +186,7 @@ border-left: 160px solid #414643;
 
 #content {
 position: relative;
-width: 100%;
+width: auto;
 height: 100%;
 padding: 15px;
 background: #FFFFFC;
