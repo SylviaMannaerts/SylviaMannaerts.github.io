@@ -376,19 +376,19 @@ body {
   filter: saturate(2) contrast(120%);
 }
 .wrap-effect-2 .item:first-of-type {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4854597/galshir-umbrella.jpg");
+  background-image: url("/images/Slide Overzicht.png");
 }
 .wrap-effect-2 .item:nth-of-type(2) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4776189/galshir-genesis.png");
+  background-image: url("/images/Slide Project IJsbrekers.png");
 }
 .wrap-effect-2 .item:nth-of-type(3) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/5329211/galshir-walking.gif");
+  background-image: url("/images/Slide 3_thee.gif");
 }
 .wrap-effect-2 .item:nth-of-type(4) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4611698/galshir-paper-boat.png");
+  background-image: url("/images/Slide vier.png");
 }
 .wrap-effect-2 .item:last-of-type {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4544774/galshir-window.png");
+  background-image: url("/images/Slide vijf.png");
 }
 
 .wrap-effect-3 .item:hover {
@@ -397,19 +397,19 @@ body {
   border: 1px solid gray;
 }
 .wrap-effect-3 .item:first-of-type {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/5947483/galshir-wind_2x.png");
+  background-image: url("/images/Slide vier.png");
 }
 .wrap-effect-3 .item:nth-of-type(2) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/5754705/galshir-rain_2x.png");
+  background-image: url("/images/Slide vier.png");
 }
 .wrap-effect-3 .item:nth-of-type(3) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/5355160/galshir-attack.gif");
+  background-image: url("/images/Slide vier.png");
 }
 .wrap-effect-3 .item:nth-of-type(4) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4742049/galshir-samurai.png");
+  background-image: url("/images/Slide vier.png");
 }
 .wrap-effect-3 .item:last-of-type {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/5594777/galshir-winter-cycling_2x.jpg");
+  background-image: url("/images/Slide vier.png");
 }
 
 .wrap-effect-4 .item:hover {
@@ -417,19 +417,19 @@ body {
   filter: saturate(2) contrast(120%);
 }
 .wrap-effect-4 .item:first-of-type {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4226693/galshir-iphone-x-lemonade.gif");
+  background-image: url("/images/Slide vijf.png");
 }
 .wrap-effect-4 .item:nth-of-type(2) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4475663/galshir-musical-instruments.gif");
+  background-image: url("/images/Slide vijf.png");
 }
 .wrap-effect-4 .item:nth-of-type(3) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/5431797/galshir-lemonade-ring.gif");
+  background-image: url("/images/Slide vijf.png");
 }
 .wrap-effect-4 .item:nth-of-type(4) {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4419736/galshir-lemonade-bike.gif");
+  background-image: url("/images/Slide vijf.png");
 }
 .wrap-effect-4 .item:last-of-type {
-  background-image: url("https://cdn.dribbble.com/users/729829/screenshots/4281500/galshir-lemonade-camera.gif");
+  background-image: url("/images/Slide vijf.png");
 }
 
 .inspire {
