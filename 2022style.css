@@ -344,7 +344,7 @@ body {
 }
 .container-general .gallery-wrap .item {
   flex: 1;
-  height: 100%;
+  height: inherit;
   background-position: center;
   background-size: cover;
   background-repeat: no-repeat;
