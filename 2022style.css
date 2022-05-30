@@ -80,8 +80,6 @@ z-index: -20;
 }
 
 
-
-
 /** knopjens */
 
 .LIn {
@@ -317,6 +315,10 @@ body {
   height: 68vh;
   max-height: 500px;
   margin: 0 0 0 0;
+}
+
+.Landing {
+	background-image: url("/images/202207 Landing.png");
 }
 
 .swiper-slide {
