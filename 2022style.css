@@ -317,11 +317,6 @@ body {
   margin: 0 0 0 0;
 }
 
-.Landing {
-  width: 75%
-  text-align: center;
-  background-image: url("/images/202207 Landing.png");
-}
 
 .swiper-slide {
   width: 75%
