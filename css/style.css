@@ -520,17 +520,17 @@ p2 { /** contactgegevens menu **/
 }
 
 .wrap-effect-1 .item:first-of-type {
-  background-image: url("/images/202208_1_IJb_sml.png");
+  background-image: url("/img/Slide1_cocreatie.png");
 }
 .wrap-effect-1 .item:nth-of-type(2) {
-  background-image: url("/images/202208_2_DGWD_v3.png");
+  background-image: url("/img/Slide2_Workshops.png");
 }
 
 .wrap-effect-1 .item:nth-of-type(3) {
-  background-image: url("/images/202208_3_Antropoloog_v2.gif");
+  background-image: url("/img/Slide3_Antropoloog.gif");
 }
 .wrap-effect-1 .item:nth-of-type(4) {
-  background-image: url("/images/202208_4_comstrat_v3.png");
+  background-image: url("/img/Slide4_Community.png");
 }
 .wrap-effect-1 .item:last-of-type {
-  background-image: url("/images/202208_5_crea_sml.png");
+  background-image: url("/img/Slide5_Ondernemerszin.png");
