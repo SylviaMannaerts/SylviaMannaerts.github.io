@@ -435,3 +435,16 @@
     padding-right: 0;
     border-right: none;
 }
+
+
+
+
+/**---------EIGEN TOEVOEGINGEN------------*/
+
+/** knopjens */
+.LIn {
+        width: 30px;
+        height: 30px;
+        background: url("/images/linkedin.png") no-repeat;
+        display: inline-block;
+    }
