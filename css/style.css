@@ -448,3 +448,45 @@
         background: url("/images/linkedin.png") no-repeat;
         display: inline-block;
     }
+
+
+/** TEKST */
+
+/** lettertype aanroepen **/
+@font-face {
+font-family: 'Street';
+font-style: normal;
+font-weight: normal;
+src: local('Street Compact'), url('Street/STREET__.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Street Compact';
+font-style: normal;
+font-weight: normal;
+src: local('Street Compact'), url('Street/STRCOMP_.ttf') format('truetype');
+}
+@font-face {
+font-family: 'Street UPR';
+font-style: normal;
+font-weight: normal;
+src: local('Street Compact'), url('Street/STRUPR__.ttf') format('truetype');
+}
+
+/** Paragraphs & Headers **/
+p {
+    font-family: Street Compact;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    line-height: 115%;
+  }
+
+p2 {
+    font-family: Street Compact;
+    font-size: 1rem;
+    margin: 0;
+    padding: 0;
+    color: #414643;
+    line-height: 115%;
+  }
