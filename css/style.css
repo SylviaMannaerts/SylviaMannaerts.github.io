@@ -497,7 +497,7 @@ p2 { /** contactgegevens menu **/
 .container-general {
   padding: 10 20;
   margin: 0 auto;
-  width: 560px;
+  width: 100%;
 }
 .container-general .gallery-wrap {
   display: flex;
