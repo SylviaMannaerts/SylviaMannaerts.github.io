@@ -454,22 +454,22 @@
 
 /** lettertype aanroepen **/
 @font-face {
-font-family:'Street';
+font-family:"Street";
 font-style: normal;
 font-weight: normal;
-src: local('Street Compact'), url('Street/STREET__.ttf') format('truetype');
+src: local("Street"), url("/Street/STREET__.ttf") format("truetype");
 }
 @font-face {
-font-family: 'Street Compact';
+font-family: "Street Compact";
 font-style: normal;
 font-weight: normal;
-src: local('Street Compact'), url('Street/STRCOMP_.ttf') format('truetype');
+src: local("Street Compact"), url("/Street/STRCOMP_.ttf") format("truetype");
 }
 @font-face {
-font-family: 'Street UPR';
+font-family: "Street UPR";
 font-style: normal;
 font-weight: normal;
-src: local('Street Compact'), url('Street/STRUPR__.ttf') format('truetype');
+src: local("Street Compact"), url("/Street/STRUPR__.ttf") format("truetype");
 }
 
 /** Paragraphs & Headers **/
