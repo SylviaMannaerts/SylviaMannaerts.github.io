@@ -472,6 +472,17 @@ src: local("Street Compact"), url("/Street/STRUPR__.ttf") format("truetype");
 }
 
 /** Paragraphs & Headers **/
+h1 {
+    font-family: Street Compact;
+    font-size: 1,5rem;
+    margin: 0;
+    padding: 0;
+    color: #000;
+    line-height: 115%;
+  }
+
+
+
 p {
     font-family: Street Compact;
     font-size: 1rem;
