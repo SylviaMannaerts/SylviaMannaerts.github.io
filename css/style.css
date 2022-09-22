@@ -511,7 +511,7 @@ p2 { /** contactgegevens menu **/
 
 
 /** Accordion */
-
+@media (min-width: 1200px) {
 .container-general {
   padding: 10 20;
   margin: 0 auto;
@@ -522,8 +522,23 @@ p2 { /** contactgegevens menu **/
   flex-direction: row;
   width: 100%;
   height: 35vw;
- 
 }
+}
+
+@media (max-width: 1200px) {
+.container-general {
+  padding: 10 20;
+  margin: 0 auto;
+  height: 100%;
+}
+.container-general .gallery-wrap {
+  display: flex;
+  flex-direction: row;
+  width: 285vh;
+  height: 100%;
+}
+}
+
 .container-general .gallery-wrap .item {
   flex: 1;
   height: inherit;
@@ -532,6 +547,7 @@ p2 { /** contactgegevens menu **/
   background-repeat: no-repeat;
   transition: all 0.8s ease;
 }
+
 .container-general .gallery-wrap .item:hover {
   flex: 7;
 }
